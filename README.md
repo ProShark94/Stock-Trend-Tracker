@@ -1,12 +1,9 @@
-# CS 498 E2E Final Project (sp24) repo for NetID: dr31
+# Stock trend tracker for top 5 stocks in S&P 50
 
-GitHub username at initialization time: ProShark94
+Stock Predictor using Sentimental Analysis 
 
-Final Project CS 498: Stock Predictor using Sentimental Analysis 
 
-This Project follows similar path as MP03 but with a practical touch on markets and emphasising the trends in markets.
 In this we will use top 5 stocks in the market pertaining to Technology and Manufacturing.
-data and model folders are similar to MP03.
 
 This is a simple and efficient predictor based on solving a simple problem correctly is better than tackling a huge problem and producing an inoperable product. 
 _____________________________________________________________________________________________________________________________________________________
